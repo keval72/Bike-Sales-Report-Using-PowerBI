@@ -8,6 +8,14 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
   <img src="https://github.com/keval72/Bike-Sales-Report-Using-PowerBI/blob/main/img/Bike%20Sales%20Dashboard.png">
 </p>
 
+<p>
+  <img src="https://github.com/keval72/Bike-Sales-Report-Using-PowerBI/blob/main/img/Product%20Details.png">
+</p>
+
+<p>
+  <img src="https://github.com/keval72/Bike-Sales-Report-Using-PowerBI/blob/main/img/Customer%20Details.png">
+</p>
+
 ## Features
 
 - Track key performance indicators (KPIs) related to sales, revenue, profit, and returns.
