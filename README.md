@@ -51,7 +51,9 @@ This project involved the following tasks:
 
 - Understandably, tires and tubes are the most ordered product type, while cycling shorts are the most returned product type. After mountain bike fenders, sports helmets top the list of revenue-generating products, despite having relatively high return rates:
 
-https://github.com/keval72/Bike-Sales-Report-Using-PowerBI/blob/main/img/top_revenue_products.png
+<p>
+  <img src="https://github.com/keval72/Bike-Sales-Report-Using-PowerBI/blob/main/img/top_revenue_products.png">
+</p>
 
 - The most profitable product categories are clothing and accessories.
 
