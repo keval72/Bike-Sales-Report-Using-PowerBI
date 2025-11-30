@@ -4,7 +4,9 @@ A Microsoft Power BI business intelligence dashboard for a company that produces
 
 The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status. 
 
--k
+<p>
+  <img src="https://github.com/keval72/Bike-Sales-Report-Using-PowerBI/blob/main/img/Bike%20Sales%20Dashboard.png">
+</p>
 
 ## Features
 
