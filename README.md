@@ -59,10 +59,14 @@ This project involved the following tasks:
 
 - There is a step change (on the order of 200 customers per week) in total weekly customers beginning 02/08/2021.
 
--k
+<p>
+  <img src="https://github.com/keval72/Bike-Sales-Report-Using-PowerBI/blob/main/img/total_weekly_customers.png">
+</p>
 
 - However, revenue per customer has been declining year-on-year:
 
--k
+<p>
+  <img src="https://github.com/keval72/Bike-Sales-Report-Using-PowerBI/blob/main/img/revenue_per_customer.png">
+</p>
 
 - While the United States is the largest market with 8,700 orders and $7.94 million in total revenue, The Australian market has the largest revenue per customer at $2,131.
